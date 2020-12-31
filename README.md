@@ -1,2 +1,2 @@
 # Demo
-Practice for my assignment
+Practice for assignment
